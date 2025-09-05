@@ -1,4 +1,4 @@
-# PRODIGY_ML_01
+# Task_01
 
 📘 Project Description: House Price Prediction using Linear Regression
 
