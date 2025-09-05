@@ -1,4 +1,4 @@
-# PRODIGY_ML_04
+# Task_04
 
 📘 Project: Hand Gesture Recognition using CNN (LeapGestRecog Dataset)
 
